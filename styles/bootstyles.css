@@ -1,0 +1,50 @@
+/* These are the approved styles for the site */
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #303030;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #303030;
+    border: solid 2px rgb(0, 0, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: #303030;
+    text-align: center;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(61, 44, 170);
+    text-decoration: none;
+}
+
+body {
+    background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/image/rDtN98Qoishumwih/bright-background_QyEksZ_thumb.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+.bold {
+    font-weight: bold;
+}

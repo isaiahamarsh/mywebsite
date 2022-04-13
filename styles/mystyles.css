@@ -1,0 +1,29 @@
+
+.underline{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.align {
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.color {
+    color: rgb(255, 0, 0);
+}
+
+.indent {
+    padding-left: 20px;
+}
